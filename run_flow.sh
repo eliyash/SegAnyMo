@@ -1,0 +1,3 @@
+source install_env.sh
+source download_models.sh
+python generate_data_for_all_videos.py
